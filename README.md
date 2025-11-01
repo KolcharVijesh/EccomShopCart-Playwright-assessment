@@ -16,7 +16,7 @@ Website: [Demo Web Shop](https://demowebshop.tricentis.com/cart)
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/KolcharVijesh/ecommerce-playwright.git
+git clone https://github.com/KolcharVijesh/EccomShopCart-Playwright-assessment.git
 cd ecommerce-playwright
 ```
 
